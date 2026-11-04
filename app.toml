@@ -6,10 +6,10 @@
 [app]
 # Name of the built executable. No spaces, slashes, or colons --
 # this becomes, for example, MyAppName.exe / MyAppName.app.
-name = "Guessing Game"
+name = "GuessingGame"
 
 # Friendly name, used in the release notes and README only.
-display_name = "Guessing Game"
+display_name = "GuessingGame"
 
 # The Python file PyInstaller starts from.
 entrypoint = "app.py"

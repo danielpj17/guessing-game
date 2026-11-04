@@ -1,4 +1,4 @@
-# =======================================================================
+i# =======================================================================
 # Edit this file, app.py, and requirements.txt to build the whole project
 # Nothing else needs to be updated when you reuse this template.
 # =======================================================================
@@ -6,10 +6,10 @@
 [app]
 # Name of the built executable. No spaces, slashes, or colons --
 # this becomes, for example, MyAppName.exe / MyAppName.app.
-name = "MyAppName"
+name = "Guessing Game"
 
 # Friendly name, used in the release notes and README only.
-display_name = "My App Name"
+display_name = "Guessing Game"
 
 # The Python file PyInstaller starts from.
 entrypoint = "app.py"
